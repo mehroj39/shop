@@ -53,8 +53,8 @@ const Menu = () => {
           <img src={menu6} alt="menu6" />
           <h3 className='text-2xl font-normal text-center'>Tasty And Healthy</h3>
           <p>$15.99 <span className='line-through'>20.99</span></p>
-          <button className='sm:hover:w-2/3 xl:hover:w-[300px] transition-all duration-500 ease-in-out 
-                   px-3 py-2 text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
+          <button className='sm:hover:w-[150px] xl:hover:w-[300px] transition-all duration-500 ease-in-out 
+                   px-4 py-3 text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
         </div>
       </div>
     </div>
