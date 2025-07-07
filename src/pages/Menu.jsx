@@ -18,7 +18,7 @@ const Menu = () => {
           <p>$15.99 <span className='line-through'>$20.99</span></p>
 
           <button
-            className='w-1/2 hover:w-2/3 tracking-widest transition-all duration-500 ease-in-out 
+            className='w-70% hover:w-90% tracking-widest transition-all duration-500 ease-in-out 
                px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
@@ -30,7 +30,7 @@ const Menu = () => {
           <p>$15.99 <span className='line-through'>$20.99</span></p>
 
           <button
-            className='w-1/2 hover:w-2/3 tracking-widest transition-all duration-500 ease-in-out 
+            className='w-70% hover:w-90% tracking-widest transition-all duration-500 ease-in-out 
                px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
@@ -42,7 +42,7 @@ const Menu = () => {
           <p>$15.99 <span className='line-through'>$20.99</span></p>
 
           <button
-            className='w-1/2 hover:w-2/3 tracking-widest transition-all duration-500 ease-in-out 
+            className='w-70% hover:w-90% tracking-widest transition-all duration-500 ease-in-out 
                px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
@@ -56,7 +56,7 @@ const Menu = () => {
           <p>$15.99 <span className='line-through'>$20.99</span></p>
 
           <button
-            className='w-1/2 hover:w-2/3 tracking-widest transition-all duration-500 ease-in-out 
+            className='w-70% hover:w-90% tracking-widest transition-all duration-500 ease-in-out 
                px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
@@ -68,7 +68,7 @@ const Menu = () => {
           <p>$15.99 <span className='line-through'>$20.99</span></p>
 
           <button
-            className='w-1/2 hover:w-2/3 tracking-widest transition-all duration-500 ease-in-out 
+            className='w-70% hover:w-90% tracking-widest transition-all duration-500 ease-in-out 
                px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
@@ -80,7 +80,7 @@ const Menu = () => {
           <p>$15.99 <span className='line-through'>$20.99</span></p>
 
           <button
-            className='w-1/2 hover:w-2/3 tracking-widest transition-all duration-500 ease-in-out 
+            className='w-70% hover:w-90% tracking-widest transition-all duration-500 ease-in-out 
                px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
