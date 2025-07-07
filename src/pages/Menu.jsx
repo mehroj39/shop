@@ -16,21 +16,21 @@ const Menu = () => {
           <img src={menu1} alt="menu1" />
           <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
           <p>$15.99 <span className='line-through'>20.99</span></p>
-          <button className=' hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
+          <button className='sm:hover:w-2/3 hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
                     px-4 py-3 text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
         </div>
         <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
           <img src={menu2} alt="menu2" />
           <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
           <p>$15.99 <span className='line-through'>20.99</span></p>
-          <button className=' hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
+          <button className='sm:hover:w-2/3 hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
                     px-4 py-3 text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
         </div>
         <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
           <img src={menu3} alt="menu3" />
           <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
           <p>$15.99 <span className='line-through'>20.99</span></p>
-          <button className=' hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
+          <button className='sm:hover:w-2/3 hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
                     px-4 py-3 text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
         </div>
 
@@ -39,22 +39,22 @@ const Menu = () => {
           <img src={menu4} alt="menu4" />
           <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
           <p>$15.99 <span className='line-through'>20.99</span></p>
-          <button className=' hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
+          <button className='sm:hover:w-2/3 hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
                     px-4 py-3 text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
         </div>
         <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
           <img src={menu5} alt="menu5" />
           <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
           <p>$15.99 <span className='line-through'>20.99</span></p>
-          <button className=' hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
+          <button className='sm:hover:w-2/3 hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
                     px-4 py-3 text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
         </div>
         <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-2'>
           <img src={menu6} alt="menu6" />
-          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
+          <h3 className='text-2xl font-normal text-center'>Tasty And Healthy</h3>
           <p>$15.99 <span className='line-through'>20.99</span></p>
-          <button className='hover:w-2/3   duration-500 ease-in-out 
-                   text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
+          <button className='sm:hover:w-2/3 hover:w-[300px] transition-all duration-500 ease-in-out 
+                   px-3 py-2 text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
         </div>
       </div>
     </div>
