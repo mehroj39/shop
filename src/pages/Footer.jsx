@@ -16,7 +16,7 @@ const Footer = () => {
                 <a href="#home"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='home'>Home</li></a>
                 <a href="#about"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='about'>About</li></a>
                 <a href="#menu"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='menu'>Menu</li></a>
-                <a href="#products"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='products'>Products</li></a>
+                <a href="#products"><li className='sm:text-xl text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='products'>Products</li></a>
                 <a href="#contact"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2'id='contact'>Contact</li></a>
                 <a href="#review"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2'id='review'>Review</li></a>
                 <a href="#blogs"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='blogs'>Blogs</li></a>
