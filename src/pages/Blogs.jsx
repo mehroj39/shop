@@ -18,7 +18,7 @@ const Blogs = () => {
             <p className='px-7 text-white'>Lorem Ipsum Dolor Sit, Amet Consectetur Adipisicing Elit. Minus Iure Eos Inventore,  </p>
             <button className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>Read More</button>
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px]  mb-[30px] mx-auto'>Read More</button>
           </div>
           <div className='flex flex-col gap-7 bg-black border border-white '>
             <img src={pic2} alt="pic1" />
@@ -27,7 +27,7 @@ const Blogs = () => {
             <p className='px-7 text-white'>Lorem Ipsum Dolor Sit, Amet Consectetur Adipisicing Elit. Minus Iure Eos Inventore,  </p>
             <button className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>Read More</button>
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mb-[30px] mx-auto'>Read More</button>
           </div>
           <div className='flex flex-col gap-7 bg-black border border-white '>
             <img src={pic3} alt="pic1" />
@@ -36,7 +36,7 @@ const Blogs = () => {
             <p className='px-7 text-white'>Lorem Ipsum Dolor Sit, Amet Consectetur Adipisicing Elit. Minus Iure Eos Inventore,  </p>
             <button className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px]  mx-auto'>Read More</button>
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px]  mb-[30px] mx-auto'>Read More</button>
           </div>
         </div>
       </div>
