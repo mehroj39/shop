@@ -18,66 +18,9 @@ const Menu = () => {
           <p>$15.99 <span className='line-through'>$20.99</span></p>
 
           <button
-            className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
+            className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
-            Get Yours Now
-          </button>
-
-        </div>
-
-        <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
-          <img src={menu4} alt="menu4" />
-          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
-          <p>$15.99 <span className='line-through'>$20.99</span></p>
-
-          <button
-            className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
-             whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
-            Get Yours Now
-          </button>
-        </div>
-
-        <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
-          <img src={menu4} alt="menu4" />
-          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
-          <p>$15.99 <span className='line-through'>$20.99</span></p>
-
-          <button
-            className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
-             whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
-            Get Yours Now
-          </button>
-
-        </div>
-
-
-
-        <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
-          <img src={menu4} alt="menu4" />
-          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
-          <p>$15.99 <span className='line-through'>$20.99</span></p>
-
-          <button
-            className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
-             whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
-            Get Yours Now
-          </button>
-
-
-        </div>
-
-        <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
-          <img src={menu4} alt="menu4" />
-          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
-          <p>$15.99 <span className='line-through'>$20.99</span></p>
-          <button
-            className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
-             whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
 
@@ -90,11 +33,73 @@ const Menu = () => {
           <p>$15.99 <span className='line-through'>$20.99</span></p>
 
           <button
-            className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
+            className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
+
+        </div>
+
+        <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
+          <img src={menu4} alt="menu4" />
+          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
+          <p>$15.99 <span className='line-through'>$20.99</span></p>
+
+          <button
+            className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
+             whitespace-nowrap overflow-hidden 
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+            Get Yours Now
+          </button>
+
+        </div>
+
+
+
+        <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
+          <img src={menu4} alt="menu4" />
+          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
+          <p>$15.99 <span className='line-through'>$20.99</span></p>
+
+          <button
+            className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
+             whitespace-nowrap overflow-hidden 
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+            Get Yours Now
+          </button>
+
+
+
+        </div>
+
+        <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
+          <img src={menu4} alt="menu4" />
+          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
+          <p>$15.99 <span className='line-through'>$20.99</span></p>
+          <button
+            className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
+             whitespace-nowrap overflow-hidden 
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+            Get Yours Now
+          </button>
+
+
+
+        </div>
+
+        <div className='flex flex-col items-center justify-center gap-5 bg-black text-white border border-white hover:bg-white hover:text-black py-6'>
+          <img src={menu4} alt="menu4" />
+          <h3 className='text-2xl font-normal'>Tasty And Healthy</h3>
+          <p>$15.99 <span className='line-through'>$20.99</span></p>
+
+          <button
+            className='w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
+             whitespace-nowrap overflow-hidden 
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+            Get Yours Now
+          </button>
+
 
         </div>
       </div>
