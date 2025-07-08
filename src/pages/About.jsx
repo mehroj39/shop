@@ -8,7 +8,7 @@ const About = () => {
             <div className='xl:flex w-[90%] bg-gray-900 mx-auto  md:w-[90%]      gap-[20px]   '>
                 <div>
                     <img className='xl:w-900px md:w-full ' src={about} alt="about" />
-                 </div>
+                </div>
                 <div className='xl:w-1/2 flex flex-col gap-[30px] text-white sm:w-[200px] pl-4  mx-auto justify-center md:w-[90%]'>
                     <h3 className='text-3xl font-bold'>What Makes Our Coffee Special?
                     </h3>
@@ -16,8 +16,9 @@ const About = () => {
                     </p>
                     <p>Lorem Ipsum Dolor Sit, Amet Consectetur Adipisicing Elit. Molestias Temporibus Dolores Quis Eaque Iusto Ipsum, Voluptatibus Numquam Alias Perferendis Reprehenderit!
                     </p>
-                    <button className=' hover:w-[300px] tracking-widest transition-all duration-500 ease-in-out 
-                    w-[200px] h-[50px] text-white bg-amber-500 mt-[30px]  mx-auto '>Get Yours Now</button>
+                    <button className=' w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
+             whitespace-nowrap overflow-hidden 
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>Get Yours Now</button>
                 </div>
             </div>
         </div>

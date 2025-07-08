@@ -78,7 +78,9 @@ export const Contact = () => {
               />
             </div>
 
-            <button className="mt-6 w-44 h-12 bg-amber-500 text-white font-semibold tracking-wider hover:w-64 transition-all duration-500 mx-auto rounded">
+            <button className="w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] transition-all duration-500 ease-in-out 
+             whitespace-nowrap overflow-hidden 
+             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto">
               Contact Now
             </button>
           </div>
