@@ -16,9 +16,8 @@ const About = () => {
                     </p>
                     <p>Lorem Ipsum Dolor Sit, Amet Consectetur Adipisicing Elit. Molestias Temporibus Dolores Quis Eaque Iusto Ipsum, Voluptatibus Numquam Alias Perferendis Reprehenderit!
                     </p>
-                    <button className=' w-1/2 hover:w-2/3 min-w-[150px] sm:min-w-[170px] mb-[20px] pb-[30px]  transition-all duration-500 ease-in-out 
-             whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>Get Yours Now</button>
+                    <button className=' w-1/2 sm:w-[180px] hover:w-[220px] transition-all duration-500 ease-in-out 
+             max-w-[250px] whitespace-nowrap px-4 py-3 bg-amber-500 text-white mx-auto mt-6 mb-6'>Get Yours Now</button>
                 </div>
             </div>
         </div>
