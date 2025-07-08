@@ -26,7 +26,7 @@ const Footer = () => {
                         className='text-center list-none border border-white text-white 
                text-base sm:text-lg md:text-xl lg:text-2xl 
                hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
-                        Home
+                        About
                     </li>
                 </a>
                 <a href="#home">
@@ -34,7 +34,7 @@ const Footer = () => {
                         className='text-center list-none border border-white text-white 
                text-base sm:text-lg md:text-xl lg:text-2xl 
                hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
-                        Home
+                        Contact
                     </li>
                 </a>
                 <a href="#home">
@@ -42,7 +42,7 @@ const Footer = () => {
                         className='text-center list-none border border-white text-white 
                text-base sm:text-lg md:text-xl lg:text-2xl 
                hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
-                        Home
+                        Blogs
                     </li>
                 </a>
                 <a href="#home">
@@ -50,7 +50,7 @@ const Footer = () => {
                         className='text-center list-none border border-white text-white 
                text-base sm:text-lg md:text-xl lg:text-2xl 
                hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
-                        Home
+                        Review
                     </li>
                 </a>
                 <a href="#home">
@@ -58,7 +58,7 @@ const Footer = () => {
                         className='text-center list-none border border-white text-white 
                text-base sm:text-lg md:text-xl lg:text-2xl 
                hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
-                        Home
+                        Menu
                     </li>
                 </a>
                 <a href="#home">
@@ -66,11 +66,13 @@ const Footer = () => {
                         className='text-center list-none border border-white text-white 
                text-base sm:text-lg md:text-xl lg:text-2xl 
                hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
-                        Home
+                        Products
                     </li>
                 </a>
             </ul>
-            <h2 className='text-white text-4xl text-center'>Created By <span className='text-amber-300'>Mr.Quvonch Web Designer</span> | All Right Reserved</h2>
+            <h2 className='text-white text-center text-xl sm:text-2xl md:text-3xl lg:text-4xl max-w-[90%] mx-auto break-words'>
+                Created By <span className='text-amber-300'>Mr.Quvonch Web Designer</span> | All Right Reserved
+            </h2>
         </div>
 
 
