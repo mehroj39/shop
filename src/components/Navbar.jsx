@@ -11,25 +11,25 @@ function Navbar() {
 
 
       <ul className="hidden xl:flex items-center gap-8 font-semibold text-base text-white">
-        <li className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
+        <li onClick={() => setIsMenuOpen(false)} className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
           <a href="#home">Home</a>
         </li>
-        <li className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
+        <li onClick={() => setIsMenuOpen(false)} className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
           <a href="#about">About</a>
         </li>
-        <li className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
+        <li onClick={() => setIsMenuOpen(false)} className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
           <a href="#menu">Menu</a>
         </li>
-        <li className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
+        <li onClick={() => setIsMenuOpen(false)} className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
           <a href="#products">Products</a>
         </li>
-        <li className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
+        <li onClick={() => setIsMenuOpen(false)} className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
           <a href="#review">Review</a>
         </li>
-        <li className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
+        <li onClick={() => setIsMenuOpen(false)} className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
           <a href="#contact">Contact</a>
         </li>
-        <li className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
+        <li onClick={() => setIsMenuOpen(false)} className="p-3 hover:text-amber-300 rounded-md transition-all cursor-pointer">
           <a href="#blogs">Blogs</a>
         </li>
       </ul>
