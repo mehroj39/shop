@@ -49,25 +49,25 @@ function Navbar() {
         ${isMenuOpen ? "opacity-100 scale-y-100" : "opacity-0 scale-y-0"} origin-top`}
       >
         <li className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
-          <Link to="/">Home</Link>
+          <a href="#home">Home</a>
         </li>
         <li className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
-          <Link to="/about">About</Link>
+          <a href="#about">About</a>
         </li>
         <li className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
-          <Link to="/menu">Menu</Link>
+          <a href="#menu">Menu</a>
         </li>
         <li className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
-          <Link to="/products">Products</Link>
+          <a href="#products">Products</a>
         </li>
         <li className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
           <Link to="/contact">Contact</Link>
         </li>
         <li className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
-          <Link to="/review">Review</Link>
+          <a href="#review">Review</a>
         </li>
         <li className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
-          <Link to="/blogs">Blogs</Link>
+          <a href="#blogs">Blogs</a>
         </li>
       </ul>
     </nav>
