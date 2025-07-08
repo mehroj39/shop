@@ -49,7 +49,7 @@ function Navbar() {
         ${isMenuOpen ? "opacity-100 scale-y-100" : "opacity-0 scale-y-0"} origin-top`}
       >
         <li  className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
-          <a onClick={() => setIsMenuOpen(false)} href="#home" className="bg-red-600 w-full">Home</a>
+          <a onClick={() => setIsMenuOpen(false)} href="#home" >Home</a>
         </li>
         <li  className="list-none w-full text-center p-4 hover:bg-sky-400 hover:text-white transition-all cursor-pointer">
           <a onClick={() => setIsMenuOpen(false)} href="#about">About</a>
