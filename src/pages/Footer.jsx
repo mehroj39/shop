@@ -13,13 +13,62 @@ const Footer = () => {
                 <a href="https://x.com/pinterest"><FaPinterest className="text-6xl text-white border border-white rounded-full hover:bg-amber-300 p-2 transition" /></a>
             </div>
             <ul className='grid grid-cols-3 lg:grid-cols-3 xl:grid-cols-7 text-center gap-7 px-4'>
-                <a href="#home"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='home'>Home</li></a>
-                <a href="#about"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='about'>About</li></a>
-                <a href="#menu"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='menu'>Menu</li></a>
-                <a href="#products"><li className='sm:text-xl text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='products'>Products</li></a>
-                <a href="#contact"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2'id='contact'>Contact</li></a>
-                <a href="#review"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2'id='review'>Review</li></a>
-                <a href="#blogs"><li className='text-center list-none text-2xl border border-white text-white hover:bg-amber-300 px-5 py-2' id='blogs'>Blogs</li></a>
+                <a href="#home">
+                    <li
+                        className='text-center list-none border border-white text-white 
+               text-base sm:text-lg md:text-xl lg:text-2xl 
+               hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
+                        Home
+                    </li>
+                </a>
+                <a href="#home">
+                    <li
+                        className='text-center list-none border border-white text-white 
+               text-base sm:text-lg md:text-xl lg:text-2xl 
+               hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
+                        Home
+                    </li>
+                </a>
+                <a href="#home">
+                    <li
+                        className='text-center list-none border border-white text-white 
+               text-base sm:text-lg md:text-xl lg:text-2xl 
+               hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
+                        Home
+                    </li>
+                </a>
+                <a href="#home">
+                    <li
+                        className='text-center list-none border border-white text-white 
+               text-base sm:text-lg md:text-xl lg:text-2xl 
+               hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
+                        Home
+                    </li>
+                </a>
+                <a href="#home">
+                    <li
+                        className='text-center list-none border border-white text-white 
+               text-base sm:text-lg md:text-xl lg:text-2xl 
+               hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
+                        Home
+                    </li>
+                </a>
+                <a href="#home">
+                    <li
+                        className='text-center list-none border border-white text-white 
+               text-base sm:text-lg md:text-xl lg:text-2xl 
+               hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
+                        Home
+                    </li>
+                </a>
+                <a href="#home">
+                    <li
+                        className='text-center list-none border border-white text-white 
+               text-base sm:text-lg md:text-xl lg:text-2xl 
+               hover:bg-amber-300 px-3 sm:px-4 md:px-5 py-2'>
+                        Home
+                    </li>
+                </a>
             </ul>
             <h2 className='text-white text-4xl text-center'>Created By <span className='text-amber-300'>Mr.Quvonch Web Designer</span> | All Right Reserved</h2>
         </div>
