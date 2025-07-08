@@ -20,7 +20,7 @@ const Menu = () => {
           <button
             className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
 
@@ -34,7 +34,7 @@ const Menu = () => {
           <button
             className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
         </div>
@@ -47,7 +47,7 @@ const Menu = () => {
           <button
             className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
 
@@ -63,7 +63,7 @@ const Menu = () => {
           <button
             className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
 
@@ -77,7 +77,7 @@ const Menu = () => {
           <button
             className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
 
@@ -92,7 +92,7 @@ const Menu = () => {
           <button
             className='w-1/2 hover:w-2/3 transition-all duration-500 ease-in-out
              whitespace-nowrap overflow-hidden 
-             tracking-widest px-4 py-3 text-white bg-amber-500 mt-[30px] mx-auto'>
+             tracking-widest px-4 py-3 text-white text-center bg-amber-500 mt-[30px] mx-auto'>
             Get Yours Now
           </button>
 
